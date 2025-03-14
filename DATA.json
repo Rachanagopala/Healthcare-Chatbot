@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "Name": "rachana",
+            "Age": 21,
+            "Gender": "female",
+            "Disease": "Chicken pox",
+            "Sympts": [
+                "mild_fever",
+                "mild_fever",
+                "skin_rash",
+                "fatigue",
+                "lethargy",
+                "headache",
+                "loss_of_appetite",
+                "swelled_lymph_nodes",
+                "malaise"
+            ]
+        }
+    ]
+}
